@@ -1,2 +1,3 @@
 # ASP.NET-Core-RESTfulAPI
-ASP.NET-Core-MVC-RESTfulAPI
+示範在.net core中建置RESTful API
+<img src="demo.gif">
